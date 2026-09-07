@@ -1,6 +1,6 @@
 HOW TO SETUP (people this is important)    
 step 1:    
-download repository (idk how probs a download button)  
+download repository (green "code" button then download zip)  
 step 2:  
 if you get a zip file unzip it  
 step 3:  
